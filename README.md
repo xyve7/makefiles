@@ -1,6 +1,6 @@
 # makefiles
 
-## introduction
+## Introduction
 
 This repository contained 2 main makefiles which I use to compile my C projects with.  
 I'm not the greatest at GNU Make, however, these files work, so I'm gonna assume I did something right.
